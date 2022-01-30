@@ -17,8 +17,8 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "dcfafec4338f962cb3eabf527900ead2",
-"/": "dcfafec4338f962cb3eabf527900ead2",
+"index.html": "3b4197916b4d715f874fe37bf3df96d6",
+"/": "3b4197916b4d715f874fe37bf3df96d6",
 "main.dart.js": "4200893900b78f0b8b369c7cda7a3aa8",
 "manifest.json": "17b404dac0861d04d1353de1c54370e7",
 "splash/img/dark-1x.png": "202837d4bb1e68f4b2b5ca29491ba14d",
@@ -29,7 +29,7 @@ const RESOURCES = {
 "splash/img/light-2x.png": "dfc0f17a2067c4aa437d628040e12192",
 "splash/img/light-3x.png": "c182f1bd97af72511893fb4c86206546",
 "splash/img/light-4x.png": "d8ecee847ff946af7e4b4bb9fee11b54",
-"splash/style.css": "86126e7e4072786170390b7ceee604b3",
+"splash/style.css": "1c634fe458b993d851c7e46eec58178e",
 "version.json": "3810ded415600934e4c2f873b1548c94"
 };
 
